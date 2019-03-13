@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a-service/a-service.iml" filepath="$PROJECT_DIR$/a-service/a-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b-service/b-service.iml" filepath="$PROJECT_DIR$/b-service/b-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c-service/c-service.iml" filepath="$PROJECT_DIR$/c-service/c-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config/cloud-config.iml" filepath="$PROJECT_DIR$/cloud-config/cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-discovery/cloud-discovery.iml" filepath="$PROJECT_DIR$/cloud-discovery/cloud-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-demo.iml" filepath="$PROJECT_DIR$/msa-demo.iml" />
+    </modules>
+  </component>
+</project>
